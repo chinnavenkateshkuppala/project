@@ -6,7 +6,7 @@
 
 
 **Project link**-https://gray-grass-0b9c88000.2.azurestaticapps.net/
-**project demo link**-
+**project demo link**-https://youtu.be/f8HwrUJGPUs
 ## Screenshots
 
  📸
