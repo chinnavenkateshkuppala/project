@@ -5,8 +5,8 @@
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project link**-https://gray-grass-0b9c88000.2.azurestaticapps.net/
-**project demo link**-https://youtu.be/f8HwrUJGPUs
+**Project link**- https://gray-grass-0b9c88000.2.azurestaticapps.net/
+**project demo link**- https://youtu.be/f8HwrUJGPUs
 ## Screenshots
 
  📸
